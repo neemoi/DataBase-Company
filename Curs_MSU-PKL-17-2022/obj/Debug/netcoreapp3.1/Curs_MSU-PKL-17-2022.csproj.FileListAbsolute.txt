@@ -1,0 +1,253 @@
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.exe
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.deps.json
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.json
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.dev.json
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csprojAssemblyReference.cache
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.LogIn.resources
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.GenerateResource.cache
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfoInputs.cache
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfo.cs
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CoreCompileInputs.cache
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.genruntimeconfig.cache
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CopyComplete
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.SignIn.resources
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.Properties.Resources.resources
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainAdmin.resources
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainUser.resources
+C:\Users\nemoi\source\repos\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.NewFormAdminUser.resources
+E:\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+E:\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.exe
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.deps.json
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.json
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.dev.json
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\linq2db.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.AssemblyReference.cache
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.LogIn.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainAdmin.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainUser.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.NewFormAdminUser.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.Properties.Resources.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.SignIn.resources
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.GenerateResource.cache
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfoInputs.cache
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfo.cs
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CoreCompileInputs.cache
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CopyComplete
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+D:\Флешка\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.genruntimeconfig.cache
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.exe
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.deps.json
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.json
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.runtimeconfig.dev.json
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\linq2db.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.AssemblyReference.cache
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.LogIn.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainAdmin.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.MainUser.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.NewFormAdminUser.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.Properties.Resources.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU_PKL_17_2022.SignIn.resources
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.GenerateResource.cache
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfoInputs.cache
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.AssemblyInfo.cs
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CoreCompileInputs.cache
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.csproj.CopyComplete
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.dll
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.pdb
+C:\Users\ta4ve\OneDrive\Рабочий стол\курсачи\Curs_MSU-PKL-17-2022\Curs_MSU-PKL-17-2022\obj\Debug\netcoreapp3.1\Curs_MSU-PKL-17-2022.genruntimeconfig.cache
