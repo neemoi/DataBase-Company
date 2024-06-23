@@ -8,7 +8,7 @@ Build a logical database structure at the level of relationships between objects
       Formulate the following queries and show the correctness of their processing using examples:
 
       a. Which of the drivers in this car transported the cargo on this date?
-b. Which companies manufacture this product, not higher than this price?
+      b. Which companies manufacture this product, not higher than this price?
       c. Which of the account holders of this bank has loans on this date?
       d. To which warehouse address was this product delivered, by car with this number?
       e. Which of the clients (full name) received this product and by which invoice numbers? 
