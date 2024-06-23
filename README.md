@@ -1,59 +1,58 @@
-# БАЗА ДАННЫХ MSU-PKL-27-2022
+# MSU-PKL-27-2022 DATABASE
 
-**Цель:** Целью курсового проекта является построение реляционной базы данных, основанной на выбранной предметной области.
+**Purpose:** The purpose of the course project is to build a relational database based on the chosen subject area.
 
-  **Условие задачи:**
-      Построить логическую структуру базы данных на уровне взаимосвязей между объектами и на уровне взаимосвязей между атрибутами разных объектов, предварительно определив эти взаимосвязи; подтвердить правильность полученной структуры на экземплярах данных.
-      Выполнить нормализацию отношений, для этого необходимо ввести ограничения, определить функциональные зависимости и ключи; привести каждое отношение к третьей нормальной форме.
-      Сформулировать следующие запросы и показать правильность их обработки на примерах:
+  **Task condition:**
+Build a logical database structure at the level of relationships between objects and at the level of relationships between attributes of different objects, having previously determined these relationships; confirm the correctness of the resulting structure on data instances.
+      To normalize relations, it is necessary to introduce restrictions, define functional dependencies and keys; bring each relationship to the third normal form.
+      Formulate the following queries and show the correctness of their processing using examples:
 
-      a. Кто из водителей на данном автомобиле перевозил груз в данную дату? 
-      b. Какие предприятия изготавливают данный товар, не выше данной цены?
-      c. Кто из владельцев счетов данного банка имеет кредиты на данную дату?
-      d. На какой адрес склада был доставлен данный товар, автомобилем с данным номером?
-      e. Кто из клиентов (ФИО) получал данный товар и по каким номерам накладных? 
-      f. Описать запросы на создание таблиц, индексов, представлений.
-      g. Добавить минимум две роли пользователей.
+      a. Which of the drivers in this car transported the cargo on this date?
+b. Which companies manufacture this product, not higher than this price?
+      c. Which of the account holders of this bank has loans on this date?
+      d. To which warehouse address was this product delivered, by car with this number?
+      e. Which of the clients (full name) received this product and by which invoice numbers? 
+      f. Describe queries for creating tables, indexes, and views.
+      g. Add at least two user roles.
       
-**Для создания графического дизайна и разработки Backend части приложения будет использоваться C# (Windows Forms) и MYSQL(PHPMyadmin)**
+**C# (Windows Forms) and MYSQL(phpMyAdmin) will be used to create graphic design and develop the Backend part of the application**
 
-Графическое изображение, которое будет использовано при построении базы данных 
+The graphic image that will be used when building the database 
 
 ![Error](https://i.imgur.com/cHXHoKY.png)
 
-# ОБЗОР ГРАФИЧЕСКОГО ПРИЛОЖЕНИЯ
+# OVERVIEW OF THE GRAPHICAL APPLICATION
 
-Для работы с базой данных было разработано графическое приложение. 
-При запуске приложения открывается окно авторизации, в окне авторизации пользователь вводит свои данные для входа или же создает аккаунт в системе в окне “регистрации”
+A graphical application has been developed to work with the database. 
+When the application is launched, an authorization window opens, in the authorization window the user enters his login details or creates an account in the system in the registration window
 
-Окно авторизации 
+Authorization window 
 
 ![Error](https://imgur.com/4XBudXB.png)
 
-Окно регистрации 
+Registration window 
 
 ![Error](https://imgur.com/ZUhF1EF.png)
       
-После успешной авторизации или регистрации пользователя появится соответствующее уведомление
+After successful authorization or registration of the user, a corresponding notification will appear
 
 ![Error](https://imgur.com/09gJDB5.png)
 
 ![Error](https://imgur.com/SzvdvQa.png)
 
-При неправильном вводе данных при авторизации или регистрации появится соответствующая ошибка
+If you enter the data incorrectly during authorization or registration, a corresponding error will appear
 
 ![Error](https://imgur.com/4coIqCI.png)
 
-В зависимости от роли после регистрации или авторизации пользователя, открывается окно базы данных. Окно для администратора отличается от окна пользователя 
-Окно администратора имеет вкладки таблиц, где можно просмотреть все данные по выбранной таблице, добавить данные, изменить данные, а также выбрать определенные данные с помощью кнопки “Поиск” 
+Depending on the role, a database window opens after registration or authorization of the user. The window for the administrator is different from the user's window 
+The admin window has table tabs where you can view all the data for the selected table, add data, change data, and select certain data using the “Search” button 
 
 ![Error](https://imgur.com/vK5ZvLU.png)
 
-В окне пользователя пользователь также может просматривать данные по таблице выбрав их в подписанном поле “Выбор таблицы”
+In the user window, the user can also view the data on the table by selecting them in the signed “Table Selection” field
 
 ![Error](https://imgur.com/4ZkvSnK.png)
       
-Так же у пользователя есть 5 запросов, связанных с моим курсовым проектом.
+The user also has 5 requests related to my course project.
 
 ![Error](https://imgur.com/YnXcEYA.png)
-
